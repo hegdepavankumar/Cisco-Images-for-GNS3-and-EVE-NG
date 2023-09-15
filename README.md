@@ -24,4 +24,31 @@ You can also download the Cisco IOS router images from the below link :
 
 For Downloading Go To Below Site: 
 
-Link : https://github.com/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Switches.md
+Link: https://github.com/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Switches.md
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+## Cisco Routers
+
+<p>Below is the list of all Cisco routers and hybrid routers that contain the ability of both switching and routing. These all IOS are tested in eve-ng and GNS3 and working.
+
+If you want to download Cisco switch IOS or IOU / IOL images:</p>
+
+<br>
+
+<hr>
+
+
+
+For Downloading Go To Below Site: 
+
+Link: https://github.com/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Router.md
+
