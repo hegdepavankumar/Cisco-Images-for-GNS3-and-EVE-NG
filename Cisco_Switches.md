@@ -32,13 +32,13 @@ The below IOS / IOU / IOL / EXE TXT files are specifically designed and modified
 |:------:|------------|:---------:|:---------:|
 | 1 | i86bi-linux-l2-adventerprise-15.1b.bin|[Download here](https://mega.nz/#!9ctmQCwZ!FJjtnopH5woqr9EtAPPx_tvf_9M0V9F-d8CISlkHnN4) | L2 |
 | 2 | i86bi-linux-l2-adventerprisek9-15.1a.bin|[Download here](https://mega.nz/#!dM9GSKwT!aGvAZO71M9oIntN8S4JdOGK9dqz0R6pOONrpEUnVofQ) | L2 |
-| 3 | i86bi-linux-l2-ipbasek9-15.1a.bin|[Download here](https://mega.nz/#!9ctmQCwZ!FJjtnopH5woqr9EtAPPx_tvf_9M0V9F-d8CISlkHnN4) | L2 |
-| 4 | i86bi-linux-l2-ipbasek9-15.1b.bin|[Download here](https://mega.nz/#!8YlQyKpL!fsh43aofzbG0YWI8RQus3k0Jn7EYjdpZ5QV9LEZNMvU) | L2 |
+| 3 | i86bi-linux-l2-adventerprise-15.1b.zip|[Download here](https://mega.nz/#!9ctmQCwZ!FJjtnopH5woqr9EtAPPx_tvf_9M0V9F-d8CISlkHnN4) | L2 |
+| 4 | i86bi-linux-l2-ipbasek9-15.1a.zip|[Download here](https://mega.nz/#!8YlQyKpL!fsh43aofzbG0YWI8RQus3k0Jn7EYjdpZ5QV9LEZNMvU) | L2 |
 | 5 | i86bi-linux-l2-ipbasek9-15.1c.bin|[Download here](https://mega.nz/#!UAs2DChD!RRm8pMhMamf6fT0roCcnoLv93gPiCTiElxQxWDmknWc) | L2 |
 | 6 | i86bi-linux-l2-ipbasek9-15.1d.bin|[Download here](https://mega.nz/#!oJ1EzAhA!bb_6yXePel49qb8Kz0_OWMPeYRtxKt3ObaVC4DNOh94) | L2 |
-| 7 | i86bi-linux-l2-ipbasek9-15.1d.bin|[Download here](https://mega.nz/#!1BsiWCTB!WAh43-2ihTtHwGMEuLSaWC29BBAIVaJaI1JIwUDxECQ) | L2 |
-| 8 | i86bi-linux-l2-ipbasek9-15.1d.bin|[Download here](https://mega.nz/#!YB0gEK7b!h1ebmioku4qmK_s5Vyv2qJLvExu2iG6VIi7BfDJIBwU) | L2 |
-| 9 | i86bi-linux-l2-ipbasek9-15.1d.bin|[Download here](https://mega.nz/#!QB1gzayQ!ANSuffpwnf-l-FjYCJUlciaMpAEDL5POquGtPTX8KeA) | L2 |
+| 7 | i86bi-linux-l2-ipbasek9-15.1e.zip|[Download here](https://mega.nz/#!1BsiWCTB!WAh43-2ihTtHwGMEuLSaWC29BBAIVaJaI1JIwUDxECQ) | L2 |
+| 8 | i86bi-linux-l2-ipbasek9-15.1f.zip|[Download here](https://mega.nz/#!YB0gEK7b!h1ebmioku4qmK_s5Vyv2qJLvExu2iG6VIi7BfDJIBwU) | L2 |
+| 9 | i86bi-linux-l2-ipbasek9-15.1g.zip|[Download here](https://mega.nz/#!QB1gzayQ!ANSuffpwnf-l-FjYCJUlciaMpAEDL5POquGtPTX8KeA) | L2 |
 | 10 | i86bi-linux-l2-upk9-12.2.bin|[Download here](https://mega.nz/#!QAlm0QYY!oT8iZBwOPKbag8MvEt1D2xcXJQQVtnpmH1h_HUtzDt8) | L2 |
 | 11| i86bi-linux-l2-upk9-15.0a.bin|[Download here](https://mega.nz/#!Edt0HYxT!LjLLJT_A665I6yApBR7U2uNXCzh1t-sps71U88GRu0k) | L2 |
 | 12| i86bi-linux-l2-upk9-15.0a.bin|[Download here](https://mega.nz/#!9RkE2SbL!E231Iw8MawfWFDVN5JyhkrAhstx4jENu3N0rbd8jVCA) | L2 |
