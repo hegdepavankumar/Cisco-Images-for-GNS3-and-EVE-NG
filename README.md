@@ -30,7 +30,7 @@ You can also download the Cisco IOS router images from the below link :
 
 For Downloading Go To Below Site: 
 
-Link: https://github.com/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Switches.md
+Link: https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Switches.md
 
 
 
@@ -56,5 +56,5 @@ If you want to download Cisco switch IOS or IOU / IOL images:</p>
 
 For Downloading Go To Below Site: 
 
-Link: https://github.com/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Router.md
+Link: https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Router.md
 
