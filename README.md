@@ -1,9 +1,9 @@
-# Cisco-IOS-Images-for-GNS3-and-EVE-NG
+# Cisco-Images-for-GNS3-and-EVE-NG
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cisco-IOS-Images-for-GNS3-and-EVE-NG.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG.svg?cache=remove)
 
 
 
