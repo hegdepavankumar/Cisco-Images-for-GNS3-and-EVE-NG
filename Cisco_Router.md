@@ -1,4 +1,4 @@
-# Cisco-IOS-Images-for-GNS3-and-EVE-NG
+# Cisco-Images-for-GNS3-and-EVE-NG
 
 Below is the list of all Cisco routers and hybrid routers that contain the ability of both switching and routing. These all IOS are tested in eve-ng and GNS3 and working.
 
