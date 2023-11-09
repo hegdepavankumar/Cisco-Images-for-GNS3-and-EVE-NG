@@ -1,8 +1,8 @@
 # Cisco-Images-for-GNS3-and-EVE-NG
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Cisco-Images-for-GNS3-and-EVE-NG?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG.svg?cache=remove)
 
 
@@ -30,7 +30,7 @@ You can also download the Cisco IOS router images from the below link :
 
 For Downloading Go To Below Site: 
 
-Link: https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Switches.md
+Link: https://github.com/imhegde/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Switches.md
 
 
 
@@ -56,5 +56,5 @@ If you want to download Cisco switch IOS or IOU / IOL images:</p>
 
 For Downloading Go To Below Site: 
 
-Link: https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Router.md
+Link: https://github.com/imhegde/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Cisco_Router.md
 
