@@ -27,6 +27,60 @@ Welcome to the Ultimate EVE-NG Image Repository! This repository is designed to 
 
 - some of the images may not be available due to server maintenance sorry for the inconvenience.
 
+ <details>
+    
+ <summary> 
+     
+# What's New
+
+    
+ </summary>
+
+
+Certainly! Here are the key points highlighting the new features and benefits after upgrading:
+
+1. **Cutting-Edge Security with Palo Alto Firewall Image:**
+   - Enjoy enhanced network security with the latest Palo Alto firewall image.
+   - Advanced threat detection and prevention capabilities to safeguard your network infrastructure.
+
+2. **Up-to-Date Cisco Product Images:**
+   - Stay ahead with the most recent Cisco product images, ensuring compatibility and optimal performance.
+   - Access the latest features and improvements for a seamless networking experience.
+
+3. **Latest Fortigate Firewall Image:**
+   - Fortify your network defenses with the latest Fortigate firewall image.
+   - Benefit from improved threat intelligence and robust firewall capabilities.
+
+4. **Comprehensive Windows PC and Server Images:**
+   - Windows PC images covering a range of operating systems.
+   - Windows Server images spanning 2008, 2012, 2013, 2016, 2019, and 2022 editions.
+   - Stay current with the latest updates and security patches for a secure and efficient computing environment.
+
+5. **Diverse Linux Images for PC and Server:**
+   - Linux images for both personal computing and server environments.
+   - Access a variety of Linux distributions to meet your specific needs.
+
+6. **Network Monitoring Tools for Enhanced Visibility:**
+   - Integrated network monitoring tools for comprehensive visibility into your network performance.
+   - Real-time insights to identify and address issues proactively.
+
+7. **Exciting Surprise Feature:**
+   - Unveil a surprise feature that adds an extra layer of excitement and functionality to your upgraded environment.
+   - Experience innovation and stay ahead of the curve.
+
+8. **[Resource Hub](https://t.me/resourcehub1) and Community Group for Documentation:**
+   - Access a centralized Resource Hub for study guides, notes, and certification materials.
+   - Join a vibrant community group to collaborate, share insights, and stay updated on the latest industry trends.
+
+By upgrading, you not only gain access to the latest technologies and security measures but also become part of a dynamic community focused on knowledge sharing and skill development. The surprise feature adds an element of anticipation, making the upgrade a rewarding experience for all users.
+
+
+
+</details>
+
+
+
+
 <hr>
 
 
