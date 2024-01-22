@@ -473,11 +473,11 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 # Windows Host and SERVER to EVE-NG
 
 
-| SR        | IMAGE      | DOWNLOAD                                 |
-|-----------|------------|------------------------------------------|
+| SR        | IMAGE      | DOWNLOAD                                 |  Password   |
+|-----------|------------|------------------------------------------|------------|
 | 1    |  winserver-2019 | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/winserver-2019/virtioa.qcow2) |
-| 2    | win-10-x64-20H2v2.tgz | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-10-x64-20H2v2.tgz)|
-| 3    |  win-11-x64-DEV.tgz   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-11-x64-DEV.tgz)|
+| 2    | win-10-x64-20H2v2.tgz | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-10-x64-20H2v2.tgz)| Test123   |
+| 3    |  win-11-x64-DEV.tgz   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-11-x64-DEV.tgz)|  Test123   |
 | 4    |  winserver-S2019-R2-x64-rev3.tgz   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/winserver-S2019-R2-x64-rev3.tgz)|
 | 5    |  win-7-Ent-main.zip   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-7-Ent-main.zip)|
 | 6    |   win-7-x86Lite  | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/win-7-x86Lite/hda.qcow2)|
