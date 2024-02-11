@@ -24,6 +24,7 @@ Welcome to the Ultimate EVE-NG Image Repository! This repository is designed to 
 - Hi all, that’s really great to share my hard work with you, After a lot of hits on Google I finally found these.
 - Feel free to use and share with your Friends those who are needed.
 - Don't use it for commercial purposes it's only for personal practices and preparations for self-growth in the Network and Security field!!
+- 🚨 Attention! Please avoid forking the GitHub repository as it undergoes frequent updates. ⚙️ Your contribution matters! Instead, consider giving the repository a ⭐️ (star) to stay updated and show your support. Thank you! 🌟
 
 <hr>
 
