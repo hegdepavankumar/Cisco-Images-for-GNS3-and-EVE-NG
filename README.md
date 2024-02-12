@@ -15,7 +15,7 @@
 
 <br>
 
-Welcome to the Ultimate EVE-NG Image Repository! This repository is designed to provide you with a rich collection of virtual images from various leading vendors, carefully tailored for seamless integration with EVE-NG. Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
+Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
 
 
 ## Note: 
