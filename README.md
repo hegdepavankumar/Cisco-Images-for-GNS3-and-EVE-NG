@@ -15,7 +15,7 @@
 
 <br>
 
-Welcome to the Ultimate EVE-NG Image Repository! This repository is designed to provide you with a rich collection of virtual images from various leading vendors, carefully tailored for seamless integration with EVE-NG. Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
+Welcome to the Ultimate EVE-NG Image Repository! This repository is designed to provide you with a rich collection of virtual images from various leading vendors, carefully tailored for seamless integration with EVE-NG. Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
 
 
 ## Note: 
@@ -506,6 +506,38 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 <br>
 <br>
 
+# SOPHOS Firewall Images for EVE-NG
+
+<br>
+
+
+
+| SR | 	NAME | DOWNLOAD | 
+|:------:|------------|:---------:|
+| 1 | sophosxg-fw-17.5.12_MR-12.KVM-664.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-17.5.12_MR-12.KVM-664.tgz) 
+| 2 | sophosxg-fw-17.5.13_MR-13.KVM-692.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-17.5.13_MR-13.KVM-692.tgz)
+| 3 | sophosxg-fw-17.5.14_MR-14.KVM-711.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-17.5.14_MR-14.KVM-711.tgz)
+| 4 | sophosxg-fw-17.5.14_MR-14-1.KVM-714.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-17.5.14_MR-14-1.KVM-714.tgz)
+| 5 | sophosxg-fw-18.0.0_GA-Build379.KVM-379.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.0.0_GA-Build379.KVM-379.tgz)
+| 6 | sophosxg-fw-18.0.1_MR-1-Build396.KVM-396.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.0.1_MR-1-Build396.KVM-396.tgz)
+| 7 | sophosxg-fw-18.0.3_MR-3.KVM-457.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.0.3_MR-3.KVM-457.tgz)
+| 8 | sophosxg-fw-18.0.4_MR-4.KVM-506.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.0.4_MR-4.KVM-506.tgz)
+| 9 | sophosxg-fw-18.0.5_MR-5.KVM-574.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.0.5_MR-5.KVM-574.tgz)
+| 10 | sophosxg-fw-18.0.5_MR-5.KVM-586.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.0.5_MR-5.KVM-586.tgz)
+| 11 | sophosxg-fw-18.5.1_MR-1.KVM-318.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.5.1_MR-1.KVM-318.tgz)
+| 12 | sophosxg-fw-18.5.1_MR-1.KVM-318.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.5.1_MR-1.KVM-318.tgz)
+| 13 | sophosxg-fw-18.5.1_MR-1.KVM-326.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.5.1_MR-1.KVM-326.tgz)
+| 14 | sophosxg-fw-18.5.2_MR-2.KVM-380.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-18.5.2_MR-2.KVM-380.tgz)
+| 15 | sophosxg-fw-19.0.0_EAP1.KVM-244.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-19.0.0_EAP1.KVM-244.tgz)
+| 16 | sophosxg-fw-19.0.1_MR-1.KVM-365.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Sophos%20FW/sophosxg-fw-19.0.1_MR-1.KVM-365.tgz)
+
+
+
+
+
+<hr>
+<br>
+<br>
 
 #  VMWare ESXi
 
@@ -598,10 +630,10 @@ These links will help you to download Linux Host & servers to eve-ng in the easi
 | SR        | IMAGE      | DOWNLOAD                                 |
 |-----------|------------|------------------------------------------|
 | 1    |  linux-centos-8   | [Download](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-centos-8/linux-centos-8)|
-| 2    | linux-debian-1    | [Download](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-debian-10/linux-debian-10)|
+| 2    |  linux-debian-1    | [Download](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-debian-10/linux-debian-10)|
 | 3    |  linux-kali-2018.1-amd64   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-kali-2018.1-amd64/virtioa.qcow2)|
 | 4    |  linux-ubuntu-16.04.1-desktop   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-16.04.1-desktop/hda.qcow2)|
-| 5    |   linux-ubuntu-18.04-desktop  | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-desktop/virtioa.qcow2)|
+| 5    |  linux-ubuntu-18.04-desktop  | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-desktop/virtioa.qcow2)|
 | 6    |  linux-ubuntu-18.04-server   | [Download](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-server/linux-ubuntu-18.04-server)|
 | 7    |  linux-ubuntu-server-16.04.02   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-server-16.04.02/hda.qcow2)|
 
