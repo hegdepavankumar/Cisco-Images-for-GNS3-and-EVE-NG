@@ -131,6 +131,7 @@ or
 | 4 | asav981.qcow2	  |[Download here](https://mega.nz/#!wdsCHAxL!oKsDohs6px62zFu80dlO-wz7I9UOD6bhT-n1Q6EXd0I) | ASAv 9.8.1	 |
 | 5 | asa842-initrd.gz	  |[Download here](https://mega.nz/#!5F9QCQhT!OZIG9ibbUbA7XwUam9jMk1O1aC9VQn3PIbeXM2ydPLY) | ASA 8.4.2	 |
 | 6 | asa-915-k8.qcow2	  |[Download here](https://mega.nz/#!Zc12VYZD!69gp1JOJog1kawLHop5OugrbZcy0UH9BLZFFVaSHG6M) | ASA 9.1.5	 |
+| 7 | ASDM   | For all ASDM Versions join this community group  | [Join Now](https://t.me/resourcehub1) |
 
 <br>
 
@@ -375,9 +376,7 @@ Below is the list of all Cisco ASA IOS images and ASDM. These all IOS are tested
 | 7 | asa-8.42-hda.qcow2 | For EVE-NG | ASA 8.4.2 | [Download here](https://mega.nz/#!ZR9GXCrb!ojJc35o9JdWVqL4E_vOlg8BUWApK0sCzRENrIi1nBRg) |
 | 8 | asa-915-k8.qcow2 | For EVE-NG & GNS3 | ASA 9.1.5 | [Download here](https://mega.nz/#!Zc12VYZD!69gp1JOJog1kawLHop5OugrbZcy0UH9BLZFFVaSHG6M) |
 | 9 | ASDM-647 | For EVE-NG | ASDM | [Download here](https://mega.nz/#!MA92yIAa!dLrZ6Oi1lZiNVz9rO3PIHFQIBEDDGUXpeeG1am8GnB8) |
-| 10 | ASDM-762 | For EVE-NG  | ASDM | [Download here]() |
-| 11| ASDM-7122 | For EVE-NG | ASDM | [Download here]() |
-| 12| ASDM-7131 | For EVE-NG | ASDM | [Download here]() |
+| 10 | ASDM   | For all ASDM Versions join this community group  | [Join Now](https://t.me/resourcehub1) |
 
 <hr>
 <br>
@@ -631,11 +630,13 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 some of the preinstalled software in Windows 7 hosts for eve-ng so you do not have to worry about the tools,
 
 - Cisco ASDM
-- Cisco Anyconnect
-- Wireshark
-- FileZilla
-- TFTP
-- WinSCP
+    - For all ASDM Versions join this community group  -  [Join Now](https://t.me/resourcehub1) 
+- [Cisco Anyconnect](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Network%20Tools/anyconnect-win-4.2.00096-k9.pkg)
+- Wireshark - [Join Now](https://t.me/resourcehub1)
+- FileZilla - [Join Now](https://t.me/resourcehub1)
+- [TFTP](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Network%20Tools/Tftpd64-4.64-setup.exe)
+- WinSCP - [Join Now](https://t.me/resourcehub1)
+
 and a lot more enjoyable. If not don't worry I will give you the link to download it;
 
 <hr>
