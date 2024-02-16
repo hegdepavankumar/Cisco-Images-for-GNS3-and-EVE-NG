@@ -1,0 +1,18 @@
+{
+    "name": "Network Automation",
+    "category": "guest",
+    "description": "This container provides the popular tools used for network automation: Netmiko, NAPALM, Pyntc, and Ansible.",
+    "vendor_name": "GNS3",
+    "vendor_url": "http://www.gns3.com",
+    "product_name": "Network Automation",
+    "registry_version": 3,
+    "status": "stable",
+    "maintainer": "GNS3 Team",
+    "maintainer_email": "developers@gns3.net",
+    "symbol": "linux_guest.svg",
+    "docker": {
+        "adapters": 1,
+        "image": "adosztal/network_automation:latest",
+        "console_type": "telnet"
+    }
+}

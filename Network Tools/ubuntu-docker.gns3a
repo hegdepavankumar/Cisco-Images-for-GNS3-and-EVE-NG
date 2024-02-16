@@ -1,0 +1,18 @@
+{
+    "name": "Ubuntu Docker Guest",
+    "category": "guest",
+    "description": "Ubuntu is a Debian-based Linux operating system, with Unity as its default desktop environment. It is based on free software and named after the Southern African philosophy of ubuntu (literally, \"human-ness\"), which often is translated as \"humanity towards others\" or \"the belief in a universal bond of sharing that connects all humanity\".",
+    "vendor_name": "Canonical",
+    "vendor_url": "http://www.ubuntu.com",
+    "product_name": "Ubuntu",
+    "registry_version": 3,
+    "status": "stable",
+    "maintainer": "GNS3 Team",
+    "maintainer_email": "developers@gns3.net",
+    "symbol": "linux_guest.svg",
+    "docker": {
+        "adapters": 1,
+        "image": "gns3/ubuntu:xenial",
+        "console_type": "telnet"
+    }
+}
