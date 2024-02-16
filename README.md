@@ -657,7 +657,7 @@ These links will help you to download Linux Host & servers to eve-ng in the easi
 I've provided images from various vendors for practice. If you need anything else or have specific requests, please feel free to let me know here. I'm here to help!
 Please drop the message here if you have any queries!
 
-[Click Here](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/issues/new) 
+[Click Here](https://t.me/resourcehub1) 
 
 
 <br>
