@@ -637,13 +637,13 @@ and a lot more enjoyable. If not don't worry I will give you the link to downloa
 These links will help you to download Linux Host & servers to eve-ng in the easiest way. You can choose any Linux image from the pack below and simply upload it into EVE.
 
 
-| SR        | IMAGE      | DOWNLOAD                                 |
-|-----------|------------|------------------------------------------|
+| SR        | IMAGE      | DOWNLOAD                                 | Username/Password |
+|-----------|------------|------------------------------------------|------------------------------------------|
 | 1    |  linux-centos-8   | [Download](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-centos-8/linux-centos-8)|
 | 2    |  linux-debian-1    | [Download](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-debian-10/linux-debian-10)|
-| 3    |  linux-kali-2018.1-amd64   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-kali-2018.1-amd64/virtioa.qcow2)|
-| 4    |  linux-ubuntu-16.04.1-desktop   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-16.04.1-desktop/hda.qcow2)|
-| 5    |  linux-ubuntu-18.04-desktop  | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-desktop/virtioa.qcow2)|
+| 3    |  linux-kali-2018.1-amd64   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-kali-2018.1-amd64/virtioa.qcow2)|   |
+| 4    |  linux-ubuntu-16.04.1-desktop   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-16.04.1-desktop/hda.qcow2)|  root / eve@123  |
+| 5    |  linux-ubuntu-18.04-desktop  | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-desktop/virtioa.qcow2)|  root / eve@123  |
 | 6    |  linux-ubuntu-18.04-server   | [Download](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-server/linux-ubuntu-18.04-server)|
 | 7    |  linux-ubuntu-server-16.04.02   | [Download](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/linux-ubuntu-server-16.04.02/hda.qcow2)|
 
