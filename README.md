@@ -38,7 +38,7 @@ Before diving into the repository, please take a moment to familiarize yourself 
 
 - Compatibility: Verify the compatibility of the images with your EVE-NG version. Regularly updated images will be marked for your convenience.
 
-- Community Support: Join our vibrant community of network enthusiasts. Feel free to seek assistance, share your experiences, or contribute to discussions related to EVE-NG and network simulation.
+- [Community Support:](https://t.me/resourcehub1) Join our vibrant community of network enthusiasts. Feel free to seek assistance, share your experiences, or contribute to discussions related to EVE-NG and network simulation.
 
 - Feedback: Your feedback is invaluable. If you encounter issues, have specific requests, or just want to share your thoughts, please open an issue or reach out to our support team.
 
