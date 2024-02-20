@@ -404,6 +404,11 @@ Cisco SDWAN, where you can import the image in Eve-ng and access it directly. Yo
 | 11 | vtedge-20.3.1 |  | - | - | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/vtedge-20.3.1/hda.qcow2) |
 | 12 | vtbond-iptela-vcontainer-19.1.0 |  | - | - | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/vtbond-iptela-vcontainer-19.1.0/viptela-vcontainer-19.1.0-genericx86-64.qcow2) |
 | 13 | vtbond-20.3.1 |  | - | - | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/vtbond-20.3.1/hda.qcow2) |
+| 14 | vtsmart-16.2.11 |  |  |  | [Download Here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Cisco%20Viptela%20SD-WAN/viptela16/vtsmart-16.2.11/hda.qcow2) | 
+| 15 | vtmgmt-16.2.11 |  |  |  | [Download Here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Cisco%20Viptela%20SD-WAN/viptela16/vtmgmt-16.2.11/hda.qcow2) | 
+| 16 | vtedge-16.2.11 |  |  |  | [Download Here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Cisco%20Viptela%20SD-WAN/viptela16/vtedge-16.2.11/hda.qcow2) | 
+| 17 | vtbond-16.2.11 |  |  |  | [Download Here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Cisco%20Viptela%20SD-WAN/viptela16/vtbond-16.2.11/hda.qcow2) | 
+
 
 
 
