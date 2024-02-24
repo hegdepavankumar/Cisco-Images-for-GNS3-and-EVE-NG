@@ -565,6 +565,60 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 <br>
 <br>
 
+
+# HPE(Aruba) Images For EVE-NG
+
+<br>
+
+## HPE - Aruba CX Switch Images For EVE-NG
+
+| SR | 	NAME | DOWNLOAD | 
+|:------:|------------|:---------:|
+| 1 | arubacx-10.03 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.03/virtioa.qcow2) |
+| 2 | arubacx-10.04.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.04.tgz) |
+| 3 | arubacx-10.05.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.05.tgz) |
+| 4 | arubacx-10.07.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.07.tgz) |
+
+<hr>
+
+
+ ## HPE - Aruba vSR Router Images For EVE-NG
+
+ <br>
+ 
+
+| SR | 	NAME | DOWNLOAD | 
+|:------:|------------|:---------:|
+| 1 | h3cvsr1k-7.1.064.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/H3C/vSR/h3cvsr1k-7.1.064.tgz) |
+| 2 | h3cvsr1k-7.1.064-E0519L02.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/H3C/vSR/h3cvsr1k-7.1.064-E0519L02.tgz) |
+| 3 | h3cvsr1k-7.1.064-R0633P13.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/H3C/vSR/h3cvsr1k-7.1.064-R0633P13.tgz) |
+| 4 | h3cvsr1k-7.1.064-R1340P1201.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/H3C/vSR/h3cvsr1k-7.1.064-R1340P1201.tgz) |
+| 5 | h3cvsr1k-7.1.064-R1340P19.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/H3C/vSR/h3cvsr1k-7.1.064-R1340P19.tgz) |
+| 6 | h3cvsr1k-7.1.064-R1362P12.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/H3C/vSR/h3cvsr1k-7.1.064-R1362P12.tgz) |
+| 7 | h3cvsr2k-7.1.064.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/H3C/vSR/h3cvsr2k-7.1.064.tgz) |
+
+
+<hr>
+<br>
+
+
+## HPE - Aruba Virtual Mobility Controller (VMC) Images For EVE-NG
+
+<br>
+
+
+| SR | 	NAME | hda.qcow2 | hdb.qcow2 | 
+|:------:|------------|:---------:|------------|
+| 1 | aruba-VMC_8.3.0.3 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC_8.3.0.3/hda.qcow2) | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC_8.3.0.3/hdb.qcow2) |
+| 2 | aruba-VMC-8.5.0.13_80140 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.5.0.13_80140/hda.qcow2) | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.5.0.13_80140/hdb.qcow2) | 
+| 3 | aruba-VMC-8.8.0.1_80393 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.8.0.1_80393/hda.qcow2) | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.8.0.1_80393/hdb.qcow2) |
+
+
+
+<hr>
+<br>
+<br>
+
 #  VMWare ESXi
 
 <br>
