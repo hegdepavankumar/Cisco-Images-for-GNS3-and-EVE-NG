@@ -566,11 +566,11 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 <br>
 
 
-# HPE(Aruba) Images For EVE-NG
+# HPE(Aruba)/H3C  Images For EVE-NG
 
 <br>
 
-## HPE - Aruba CX Switch Images For EVE-NG
+## HPE/H3C  - Aruba CX Switch Images For EVE-NG
 
 | SR | 	NAME | DOWNLOAD | 
 |:------:|------------|:---------:|
