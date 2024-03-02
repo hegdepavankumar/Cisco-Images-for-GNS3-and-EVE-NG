@@ -471,7 +471,43 @@ These files are only for education purposes and we are just indexing the links f
 <br>
 <br>
 
+<hr>
 
+#  Arista vEOS  Router Images
+
+| SR | 	NAME | DOWNLOAD | 
+|:------:|------------|:---------:|
+| 1 | veos-4.23.2.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.23.2.tgz) |
+| 2 | veos-4.24.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.0.tgz) |
+| 3 | veos-4.24.1.1F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.1.1F.tgz) |
+| 4 | veos-4.25.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.0F.tgz) |
+| 5 | veos-4.25.0FX-LDP-RSVP.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.0FX-LDP-RSVP.tgz) |
+| 6 | veos-4.25.5.1M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.5.1M.tgz) |
+| 7 | veos-4.25.6M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.6M.tgz) |
+| 8 | veos-4.26.0.1F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.26.0.1F.tgz) |
+| 9 | veos-4.26.1F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.26.1F.tgz) |
+| 10 | veos-4.26.3M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.26.3M.tgz) |
+| 11 | veos-4.27.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.27.0F.tgz) |
+| 12 | veos-4.28.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.28.0F.tgz) |
+| 13 | veos-4.29.2F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.29.2F.tgz) |
+
+
+<br>
+
+
+#  Arista CloudVision Portal
+
+| SR | 	NAME | DOWNLOAD | 
+|:------:|------------|:---------:|
+| 1 | cvp-2020-1.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20CloudVision%20Portal/cvp-2020-1.1.tgz) |
+
+
+
+
+
+<hr>
+<br>
+<br>
 
 #  F5 BIGIP Images For EVE-NG
 
