@@ -8,8 +8,7 @@
 
 <br>
 
-
-![telegram-logo-57C0252D71-seeklogo com](https://github.com/hegdepavankumar/UPGRADATION_TEMP/assets/85627085/0d68d9ea-6ac1-4921-8c6a-829c3abe71c8)
+[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
 
 # Telegram Group : [click here to join](https://t.me/resourcehub1)
 
