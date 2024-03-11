@@ -637,16 +637,16 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 <br>
 
 
-## HPE - Aruba Virtual Mobility Controller (VMC) Images For EVE-NG
+## HPE - Aruba Mobility Controller Images For EVE-NG
 
 <br>
 
 
-| SR | 	NAME | hda.qcow2 | hdb.qcow2 | 
-|:------:|------------|:---------:|------------|
-| 1 | aruba-VMC_8.3.0.3 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC_8.3.0.3/hda.qcow2) | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC_8.3.0.3/hdb.qcow2) |
-| 2 | aruba-VMC-8.5.0.13_80140 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.5.0.13_80140/hda.qcow2) | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.5.0.13_80140/hdb.qcow2) | 
-| 3 | aruba-VMC-8.8.0.1_80393 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.8.0.1_80393/hda.qcow2) | [Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/aruba-VMC-8.8.0.1_80393/hdb.qcow2) |
+| SR | 	NAME | DOWNLOAD | 
+|:------:|------------|:---------:|
+| 1 | aruba-VMC-8.6.0.4-74969.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC-8.6.0.4-74969.tgz) |
+| 2 | aruba-VMC-8.8.0.1_80393.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC-8.8.0.1_80393.tgz) |
+
 
 
 
