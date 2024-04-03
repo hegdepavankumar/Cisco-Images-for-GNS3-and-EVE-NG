@@ -677,7 +677,20 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 | 9 | esxi-vSphere-7.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20ESXi/esxi-vSphere-7.0.tgz) |
 | 10 | esxi-vSphere-7.0.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20ESXi/esxi-vSphere-7.0.1.tgz) |
  
+<br>
 
+## Credentials
+
+```
+username: root
+-----------------------
+password: Test123
+password: VMware1!
+password: vmware
+
+Try with  all passwords...
+```
+    
 <hr>
 
 ## VMware vSphere 6 and 7 ESXi Licence Keys Free : [Get Here](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) 👈👈🛑🙌
