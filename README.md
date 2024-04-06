@@ -12,7 +12,10 @@
 
 # Telegram Group : [click here to join](https://t.me/resourcehub1)
 
-<br>
+<be>
+
+# All the Images Username/Password : [Check Here](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/EVE-NG%20and%20GNS3%20Images%20Passwords%20by%20Pavankumar%20Hegde.pdf)
+# EVE-NG Qemu Images Passwords : [Check Here](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/EVE-NG%20Qemu%20Images%20Passwords.pdf)
 
 Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
 
@@ -50,7 +53,7 @@ Remember, the Ultimate EVE-NG Image Repository is here to empower your network s
 - File and Folder format
 - Extension should follow
 
-# All the Images Username/Password : [Check Here](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/EVE-NG%20and%20GNS3%20Images%20Passwords%20by%20Pavankumar%20Hegde.pdf)
+
     
 <br>
 <hr>
