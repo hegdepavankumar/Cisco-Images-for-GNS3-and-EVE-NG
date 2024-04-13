@@ -1,4 +1,3 @@
-
 # Images-for-GNS3-and-EVE-NG 
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
@@ -10,26 +9,36 @@
 
 [![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
 
-# Telegram Group : [click here to join](https://t.me/resourcehub1)
+<br>
 
-<be>
+<br>
 
-# All the Images Username/Password : [Check Here](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/EVE-NG%20and%20GNS3%20Images%20Passwords%20by%20Pavankumar%20Hegde.pdf)
-# EVE-NG Qemu Images Passwords : [Check Here](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/EVE-NG%20Qemu%20Images%20Passwords.pdf)
+#  📍Link Down❓ -- Server Maintenance📍📌 |❌🔴🕔
 
-Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
+<br>
+
+###  Important: Please visit the provided links for valuable information.
+
+<br>
+
+| Name | Link |
+|----------|----------|
+| Join Telegram Group   | [click here](https://t.me/resourcehub1)   |
+| All Images Username/Password   | [click here](https://shorturl.at/dpAS5)   |
+| EVE-NG Qemu Images Passwords   | [click here](https://shorturl.at/oHS12)   |
+| QEMU-Image-Namings             | [click here](https://shorturl.at/koqIR)   | 
+
+<br>
+
+Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, Sophos, and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
 
 
 ## Note: 
     
 - Download the FREE Cisco and any Vendor Image for GNS3 & EVE-NG.  
-- Hi all, that’s really great to share my hard work with you, After a lot of hits on Google I finally found these.
 - Feel free to use and share with your Friends those who are needed.
 - Don't use it for commercial purposes it's only for personal practices and preparations for self-growth in the Network and Security field!!
 - 🚨 Attention! Please avoid forking the GitHub repository as it undergoes frequent updates. ⚙️ Your contribution matters! Instead, consider giving the repository a ⭐️ (star) to stay updated and show your support. Thank you! 🌟
-
-<hr>
-
 
 
 ## Guidance:
@@ -37,34 +46,15 @@ Dive into a diverse array of routers, switches, and appliances, including Cisco,
 Before diving into the repository, please take a moment to familiarize yourself with the following guidelines:
 
 - Usage Agreement: Ensure that you use the images in compliance with the respective vendors' terms and conditions. Respect copyright and licensing agreements.
-
 - Compatibility: Verify the compatibility of the images with your EVE-NG version. Regularly updated images will be marked for your convenience.
-
 - [Community Support:](https://t.me/resourcehub1) Join our vibrant community of network enthusiasts. Feel free to seek assistance, share your experiences, or contribute to discussions related to EVE-NG and network simulation.
 
 - Feedback: Your feedback is invaluable. If you encounter issues, have specific requests, or just want to share your thoughts, please open an issue or reach out to our support team.
 
 
 Remember, the Ultimate EVE-NG Image Repository is here to empower your network simulation endeavors. Download, simulate, and innovate with confidence. Happy networking!
-
-<br>
-
-## Need help creating an image:: [QEMU-Image-Namings](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/QEMU-Image-Namings.md)
-- File and Folder format
-- Extension should follow
-
-
     
 <br>
-<hr>
-
-<div align="center">
-<p> Happy Networking!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
-
 
 
 <br>
