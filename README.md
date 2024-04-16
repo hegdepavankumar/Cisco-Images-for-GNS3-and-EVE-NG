@@ -7,9 +7,16 @@
 
 <br>
 
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
+[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/4de78ad2-7338-47ad-a203-6480f0a7db02)](https://t.me/resourcehub1)
+
 
 <br>
+
+# SUPPORT ME -- 🚩💲🙏
+
+### 🌟 Love my "Cisco Images for GNS3 and EVE-NG" repo? It's your one-stop solution for all vendor images, helping newbies and pros alike to simulate labs and upgrade skills hands-on. Your support means the world to me! If you'd like to show appreciation, consider buying me a coffee ☕️ or sending your best wishes. Thanks for being awesome! 
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee | Support me&emoji=☕&slug=hegdepavankumar&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <br>
 
