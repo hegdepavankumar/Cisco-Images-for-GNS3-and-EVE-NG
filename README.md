@@ -13,8 +13,6 @@
 
 <br>
 
-#  📍Link Down❓ -- Server Maintenance📍📌 |❌🔴🕔
-
 <br>
 
 ###  Important: Please visit the provided links for valuable information.
