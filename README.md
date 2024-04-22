@@ -1110,6 +1110,8 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 | 13 | win10-rs5-ltsc-kvm-ttys3.zip |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win10-rs5-ltsc-kvm-ttys3.zip)|
 | 14 | win-10-Ent-main.zip |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-10-Ent-main.zip)|
 | 15 | win-xp-onelab |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-xp-onelab/hda.qcow2)|
+| 16 | winserver-2008-lite-u1 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/winserver-2008-lite-u1/hda.qcow2)|
+| 17 | winserver-S2008-R2-x64 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/winserver-S2008-R2-x64/virtioa.qcow2)|
 
 <br>
 
