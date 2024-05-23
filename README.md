@@ -72,8 +72,6 @@ Remember, the Ultimate EVE-NG Image Repository is here to empower your network s
 
 # Cisco Images For GNS3
 
-<hr>
-
 ### Cisco IOS Images For GNS3
 
 <hr>
@@ -159,7 +157,120 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 # Cisco Images For EVE-NG
 
+<hr>
+
+### Alienvault Cybersecurity OSSIM
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | alienvault-ossim-5.8.5.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Alienvault%20Cybersecurity%20OSSIM/alienvault-ossim-5.8.5.tgz)|
+
 <br>
+
+### Arista CloudVision Portal
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | cvp-2020-1.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20CloudVision%20Portal/cvp-2020-1.1.tgz)|
+
+<br>
+
+### Arista vEOS
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | veos-4.23.2.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.23.2.tgz)|
+| 2 | veos-4.24.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.0.tgz)|
+| 3 | veos-4.24.1.1F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.1.1F.tgz)|
+| 4 | veos-4.24.2.3F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.2.3F.tgz)|
+| 5 | veos-4.24.2F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.2F.tgz)|
+| 6 | veos-4.25.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.0F.tgz)|
+| 7 | veos-4.25.3.1M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.3.1M.tgz)|
+| 8 | veos-4.25.7M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.7M.tgz)|
+| 9 | veos-4.26.5M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.26.5M.tgz)|
+| 10 | veos-4.27.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.27.0F.tgz)|
+| 11 | veos-4.27.3F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.27.3F.tgz)|
+| 12 | veos-4.27.4M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.27.4M.tgz)|
+| 13 | veos-4.28.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.28.0F.tgz)|
+| 14 | veos-4.28.1F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.28.1F.tgz)|
+| 15 | veos-4.29.2F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.29.2F.tgz)|
+
+<br>
+
+### Aruba ClearPass
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | clearpass-6.8.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20ClearPass/clearpass-6.8.0.tgz)|
+
+<br>
+
+### Aruba CX Switch
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | arubacx-10.03 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.03/virtioa.qcow2)|
+| 2 | arubacx-10.04.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.04.tgz)|
+| 3 | arubacx-10.05.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.05.tgz)|
+| 4 | arubacx-10.07.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.07.tgz)|
+
+
+<br>
+
+### Aruba Mobility Controller
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | aruba-VMC_8.4.0.3 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC_8.4.0.3/hda.qcow2)|
+| 2 | aruba-VMC-8.6.0.4-74969.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC-8.6.0.4-74969.tgz)|
+| 3 | aruba-VMC-8.8.0.1_80393.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC-8.8.0.1_80393.tgz)|
+
+<br>
+
+### Aruba NetEdit
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | netedit-2.1.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20NetEdit/netedit-2.1.0.tgz)|
+
+<br>
+
+### Barracuda Firewall
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | barracuda-fw8.0.3.0137-20200426.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Barracuda/barracuda-fw8.0.3.0137-20200426.tgz)|
+
+<br>
+
+### Check Point Firewall
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | cpsg-R80-40 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Check%20Point/cpsg-R80-40/hda.qcow2)|
+| 2 | cpsg-R81.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Check%20Point/cpsg-R81.tgz)|
+| 3 | cpsg-R81.10.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Check%20Point/cpsg-R81.10.tgz)|
+
+<br>
+
 
 ### Cisco ACS
 
