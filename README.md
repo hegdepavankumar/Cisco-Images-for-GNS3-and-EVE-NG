@@ -9,10 +9,6 @@
 
 [![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/4de78ad2-7338-47ad-a203-6480f0a7db02)](https://t.me/resourcehub1)
 
-Now we are available on Discord: [![icons8-discord-94](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/9fe97130-09ce-46e7-9b55-58a94c1bb5fe)](https://discord.gg/WcgXjhcH)
-
- 
-
 <br>
 
 # SUPPORT ME -- 🚩💲🙏
