@@ -725,6 +725,21 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <br>
 
+
+### Dell OS10
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | dellos10-10.5.2.2.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Dell%20OS10/dellos10-10.5.2.2.tgz)|
+| 2 | dellos10-10.5.4.7.204.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Dell%20OS10/dellos10-10.5.4.7.204.tgz)|
+| 3 | dellos10-10.5.5.5.105.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Dell%20OS10/dellos10-10.5.5.5.105.tgz)|
+
+
+<br>
+
+
 ### F5 BIGIP
 
 <hr>
