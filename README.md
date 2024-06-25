@@ -15,7 +15,7 @@
 
 ### 🌟 Love my "Cisco Images for GNS3 and EVE-NG" repo? It's your one-stop solution for all vendor images, helping newbies and pros alike to simulate labs and upgrade skills hands-on. Your support means the world to me! If you'd like to show appreciation, consider buying me a coffee ☕️ or sending your best wishes. Thanks for being awesome! 
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 # Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
 
