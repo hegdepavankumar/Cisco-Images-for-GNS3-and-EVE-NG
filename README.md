@@ -1055,6 +1055,29 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <br>
 
+
+### Mikrotik Cloud router
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | mikrotik-6.39 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/mikrotik-6.39/hda.qcow2)|
+| 2 | mikrotik-6.42.9 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/mikrotik-6.42.9/hda.qcow2)|
+| 3 | mikrotik-6.49 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/mikrotik-6.49/hda.qcow2)|
+| 4 | mikrotik-7.6 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.6/hda.qcow2)|
+| 5 | mikrotik-6.46.4.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-6.46.4.tgz)|
+| 6 | mikrotik-6.47.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-6.47.1.tgz)|
+| 7 | mikrotik-6.47.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-6.47.tgz)|
+| 8 | mikrotik-7.1.3.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.1.3.tgz)|
+| 9 | mikrotik-7.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.1.tgz)|
+| 10 | mikrotik-7.2.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.2.1.tgz)|
+| 11 | mikrotik-7.2.3.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.2.3.tgz)|
+| 12 | mikrotik-7.5.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.5.tgz)|
+
+
+<br>
+
 ### Palo Alto
 
 <hr>
