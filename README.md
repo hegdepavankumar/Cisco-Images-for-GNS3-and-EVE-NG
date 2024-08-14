@@ -9,16 +9,22 @@
 
 [![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/4de78ad2-7338-47ad-a203-6480f0a7db02)](https://t.me/resourcehub1)
 
-
 <br>
 
 # SUPPORT ME -- 🚩💲🙏
 
 ### 🌟 Love my "Cisco Images for GNS3 and EVE-NG" repo? It's your one-stop solution for all vendor images, helping newbies and pros alike to simulate labs and upgrade skills hands-on. Your support means the world to me! If you'd like to show appreciation, consider buying me a coffee ☕️ or sending your best wishes. Thanks for being awesome! 
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee | Support me&emoji=☕&slug=hegdepavankumar&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
+# Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
 
 <br>
+
+
+
 
 ###  Important: Please visit the provided links for valuable information.
 
@@ -63,8 +69,6 @@ Remember, the Ultimate EVE-NG Image Repository is here to empower your network s
 <br>
 
 # Cisco Images For GNS3
-
-<hr>
 
 ### Cisco IOS Images For GNS3
 
@@ -151,7 +155,120 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 # Cisco Images For EVE-NG
 
+<hr>
+
+### Alienvault Cybersecurity OSSIM
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | alienvault-ossim-5.8.5.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Alienvault%20Cybersecurity%20OSSIM/alienvault-ossim-5.8.5.tgz)|
+
 <br>
+
+### Arista CloudVision Portal
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | cvp-2020-1.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20CloudVision%20Portal/cvp-2020-1.1.tgz)|
+
+<br>
+
+### Arista vEOS
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | veos-4.23.2.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.23.2.tgz)|
+| 2 | veos-4.24.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.0.tgz)|
+| 3 | veos-4.24.1.1F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.1.1F.tgz)|
+| 4 | veos-4.24.2.3F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.2.3F.tgz)|
+| 5 | veos-4.24.2F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.24.2F.tgz)|
+| 6 | veos-4.25.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.0F.tgz)|
+| 7 | veos-4.25.3.1M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.3.1M.tgz)|
+| 8 | veos-4.25.7M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.25.7M.tgz)|
+| 9 | veos-4.26.5M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.26.5M.tgz)|
+| 10 | veos-4.27.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.27.0F.tgz)|
+| 11 | veos-4.27.3F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.27.3F.tgz)|
+| 12 | veos-4.27.4M.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.27.4M.tgz)|
+| 13 | veos-4.28.0F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.28.0F.tgz)|
+| 14 | veos-4.28.1F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.28.1F.tgz)|
+| 15 | veos-4.29.2F.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Arista%20vEOS/veos-4.29.2F.tgz)|
+
+<br>
+
+### Aruba ClearPass
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | clearpass-6.8.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20ClearPass/clearpass-6.8.0.tgz)|
+
+<br>
+
+### Aruba CX Switch
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | arubacx-10.03 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.03/virtioa.qcow2)|
+| 2 | arubacx-10.04.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.04.tgz)|
+| 3 | arubacx-10.05.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.05.tgz)|
+| 4 | arubacx-10.07.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20CX%20Switch/arubacx-10.07.tgz)|
+
+
+<br>
+
+### Aruba Mobility Controller
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | aruba-VMC_8.4.0.3 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC_8.4.0.3/hda.qcow2)|
+| 2 | aruba-VMC-8.6.0.4-74969.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC-8.6.0.4-74969.tgz)|
+| 3 | aruba-VMC-8.8.0.1_80393.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20Mobility%20Controller/aruba-VMC-8.8.0.1_80393.tgz)|
+
+<br>
+
+### Aruba NetEdit
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | netedit-2.1.0.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Aruba%20NetEdit/netedit-2.1.0.tgz)|
+
+<br>
+
+### Barracuda Firewall
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | barracuda-fw8.0.3.0137-20200426.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Barracuda/barracuda-fw8.0.3.0137-20200426.tgz)|
+
+<br>
+
+### Check Point Firewall
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | cpsg-R80-40 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Check%20Point/cpsg-R80-40/hda.qcow2)|
+| 2 | cpsg-R81.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Check%20Point/cpsg-R81.tgz)|
+| 3 | cpsg-R81.10.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Check%20Point/cpsg-R81.10.tgz)|
+
+<br>
+
 
 ### Cisco ACS
 
@@ -610,6 +727,21 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <br>
 
+
+### Dell OS10
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | dellos10-10.5.2.2.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Dell%20OS10/dellos10-10.5.2.2.tgz)|
+| 2 | dellos10-10.5.4.7.204.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Dell%20OS10/dellos10-10.5.4.7.204.tgz)|
+| 3 | dellos10-10.5.5.5.105.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Dell%20OS10/dellos10-10.5.5.5.105.tgz)|
+
+
+<br>
+
+
 ### F5 BIGIP
 
 <hr>
@@ -676,6 +808,19 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 
 <br>
+
+### ForeScout CounterACT
+
+<hr>
+
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | CounterACT-8.3.0-233.iso |[Download here](https://mega.nz/file/DhQBDQzL#IqWpQX1FBs_Nj8lETY3icTPkJ2lcr-S7AzK1E5TwUkU)|
+
+
+<br>
+
 
 ### Fortinet
 
@@ -912,6 +1057,29 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <br>
 
+
+### Mikrotik Cloud router
+
+<hr>
+
+| SR | NAME | DOWNLOAD |
+|:------:|------------|:---------:|
+| 1 | mikrotik-6.39 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/mikrotik-6.39/hda.qcow2)|
+| 2 | mikrotik-6.42.9 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/mikrotik-6.42.9/hda.qcow2)|
+| 3 | mikrotik-6.49 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/mikrotik-6.49/hda.qcow2)|
+| 4 | mikrotik-7.6 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.6/hda.qcow2)|
+| 5 | mikrotik-6.46.4.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-6.46.4.tgz)|
+| 6 | mikrotik-6.47.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-6.47.1.tgz)|
+| 7 | mikrotik-6.47.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-6.47.tgz)|
+| 8 | mikrotik-7.1.3.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.1.3.tgz)|
+| 9 | mikrotik-7.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.1.tgz)|
+| 10 | mikrotik-7.2.1.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.2.1.tgz)|
+| 11 | mikrotik-7.2.3.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.2.3.tgz)|
+| 12 | mikrotik-7.5.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Mikrotik%20Cloud%20router/mikrotik-7.5.tgz)|
+
+
+<br>
+
 ### Palo Alto
 
 <hr>
@@ -1093,9 +1261,9 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <hr>
 
-| SR | NAME | DOWNLOAD |
-|:------:|------------|:---------:|
-| 1 | winserver-2019 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/winserver-2019/virtioa.qcow2)|
+| SR | NAME | DOWNLOAD | Password[U/P]  |
+|:------:|------------|:---------:|:---------:|
+| 1 | winserver-2019 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/winserver-2019/virtioa.qcow2)| Administrator/admin  |
 | 2 | winserver-S2019-R2-x64-rev3.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/winserver-S2019-R2-x64-rev3.tgz)|
 | 3 | winserver-S2012-R2-x64-rev2.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/winserver-S2012-R2-x64-rev2.tgz)|
 | 4 | winserver-S2012-R2-x64.tgz |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/winserver-S2012-R2-x64.tgz)|
@@ -1110,6 +1278,8 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 | 13 | win10-rs5-ltsc-kvm-ttys3.zip |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win10-rs5-ltsc-kvm-ttys3.zip)|
 | 14 | win-10-Ent-main.zip |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-10-Ent-main.zip)|
 | 15 | win-xp-onelab |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/Windows/win-xp-onelab/hda.qcow2)|
+| 16 | winserver-2008-lite-u1 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/winserver-2008-lite-u1/hda.qcow2)|
+| 17 | winserver-S2008-R2-x64 |[Download here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/addons/qemu/winserver-S2008-R2-x64/virtioa.qcow2)|
 
 <br>
 
