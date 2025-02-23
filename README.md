@@ -517,7 +517,7 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <br>
 
-## VERSION: 20.6.2
+## VERSION: 20.7.1
 
 | SR | 	IMAGE  | DOWNLOAD |
 |:------:|:------------:|:---------:|
