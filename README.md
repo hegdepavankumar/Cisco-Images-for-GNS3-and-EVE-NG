@@ -533,6 +533,15 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <br>
 
+## VERSION: 16.2
+
+| SR | 	IMAGE  | DOWNLOAD |
+|:------:|:------------:|:---------:|
+| 1 | Viptela 16.2 |[Download here](https://drive.google.com/uc?export=download&id=1ULLfjiraZhPQd4yNKGkIvEbzlQGFMvbF) |
+
+<br>
+
+
 ### Cisco vWLC
 
 <br>
